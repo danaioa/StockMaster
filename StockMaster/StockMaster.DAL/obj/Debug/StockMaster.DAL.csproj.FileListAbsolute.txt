@@ -1,0 +1,9 @@
+C:\Users\Dana\Desktop\MDS\StockMaster\StockMaster.DAL\obj\Debug\StockMaster.DAL.csproj.AssemblyReference.cache
+C:\Users\Dana\Desktop\MDS\StockMaster\StockMaster.DAL\obj\Debug\StockMaster.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Dana\Desktop\MDS\StockMaster\StockMaster.DAL\bin\Debug\StockMaster.DAL.dll
+C:\Users\Dana\Desktop\MDS\StockMaster\StockMaster.DAL\bin\Debug\StockMaster.DAL.pdb
+C:\Users\Dana\Desktop\MDS\StockMaster\StockMaster.DAL\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Dana\Desktop\MDS\StockMaster\StockMaster.DAL\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Dana\Desktop\MDS\StockMaster\StockMaster.DAL\obj\Debug\StockMas.B230A607.Up2Date
+C:\Users\Dana\Desktop\MDS\StockMaster\StockMaster.DAL\obj\Debug\StockMaster.DAL.dll
+C:\Users\Dana\Desktop\MDS\StockMaster\StockMaster.DAL\obj\Debug\StockMaster.DAL.pdb
